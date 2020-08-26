@@ -1,0 +1,6 @@
+mine
+store
+castle
+house
+forest
+farm
